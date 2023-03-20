@@ -40,4 +40,6 @@ Here, an individual’s Net Salary is calculated by getting the inputs of basic 
 <p>George Chesire</p>
 
 <h2>License</h2>
-<p>MIT License Copyright (c) 2023 George Chesire</p>
+<p>MIT License
+
+Copyright (c) 2023 Georgeches</p>
