@@ -13,7 +13,7 @@ form.addEventListener('submit', (event) => {
         return;
     }
     else{
-        if (speedPoints > 12) {
+        if (speedPoints > 120) {
         points.innerHTML = 'License suspended';
     }
     else {
